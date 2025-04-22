@@ -1,1 +1,1 @@
-nnmap -p
+nmap -p 80 
