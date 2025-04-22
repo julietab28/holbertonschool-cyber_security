@@ -1,1 +1,1 @@
-nmap --top-ports 80 active.hbtn
+80/tcp open http
