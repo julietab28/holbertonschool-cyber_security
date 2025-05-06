@@ -1,2 +1,2 @@
 #!/bin/bash
-curl $1 $2 $3
+curl -X POST $2 -d $3 -H $1
